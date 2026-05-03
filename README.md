@@ -19,7 +19,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 Sobre mim
 
 ```java
 @Component
