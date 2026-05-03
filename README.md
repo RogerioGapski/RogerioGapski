@@ -96,7 +96,7 @@ public class Developer {
 
 <div align="center">
 
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=RogerioGapski&repo=OrderList&theme=dark&hide_border=true&bg_color=0d1117&title_color=F7A400)](https://github.com/SEU_USERNAME/NOME_DO_REPO_1)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=RogerioGapski&repo=OrderList&theme=dark&hide_border=true&bg_color=0d1117&title_color=F7A400)](https://github.com/RogerioGapski/OrderList)
 
 </div>
 
