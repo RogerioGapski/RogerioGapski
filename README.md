@@ -32,7 +32,7 @@ public class Developer {
     @PostConstruct
     public void init() {
 
-        this.passion     = "Criar sistemas robustos, escaláveis e bem estruturados";
+        this.passion = "Criar sistemas robustos, escaláveis e bem estruturados";
 
         this.currentFocus = "Microserviços com Spring Boot + arquitetura limpa";
 
