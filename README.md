@@ -63,31 +63,9 @@ public class Developer {
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### 🌐 Front-end
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
----
-
-## 🏗️ Arquitetura que utilizo
-
-```
-📦 Projeto Spring Boot típico
-├── 🎯 controller/          # Endpoints REST
-│   └── @RestController     # Mapeamento de rotas
-├── 🧩 service/             # Regras de negócio
-│   └── @Service            # Lógica da aplicação
-├── 🗃️ repository/          # Acesso a dados
-│   └── JpaRepository       # Spring Data JPA
-├── 📋 model/               # Entidades
-│   └── @Entity             # Mapeamento ORM
-├── 📦 dto/                 # Transferência de dados
-│   └── Records / DTOs      # Entrada e saída
-├── ⚙️ config/              # Configurações
-│   └── Security, CORS...
-└── 🐳 docker-compose.yml   # App + PostgreSQL + Redis
-```
 
 ---
 
