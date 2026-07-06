@@ -19,7 +19,7 @@
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 About me
 
 ```java
 @Component
@@ -32,9 +32,9 @@ public class Developer {
     @PostConstruct
     public void init() {
 
-        this.passion = "Criar sistemas robustos, escaláveis e bem estruturados";
+        this.passion = "Create robust, scalable, and well-structured systems";
 
-        this.currentFocus = "Microserviços com Spring Boot + arquitetura limpa";
+        this.currentFocus = "Microservices with Spring Boot + Clean Architecture";
 
     }
 }
@@ -50,12 +50,12 @@ public class Developer {
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-### 🗄️ Banco de Dados
+### 🗄️ Data base
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🚀 DevOps & Ferramentas
+### 🚀 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -69,7 +69,7 @@ public class Developer {
 
 ---
 
-## 💡 Princípios que sigo
+## 💡 Principles I follow
 
 ```
 ✅ SOLID             
@@ -82,7 +82,7 @@ public class Developer {
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 <div align="center">
 
